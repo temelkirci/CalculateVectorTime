@@ -1,0 +1,104 @@
+---------------------------------------
+Size of Array : 10000
+Range of Array : 30000
+
+Elapsed Nanooseconds Time : 46908400
+Elapsed Microseconds Time : 46908
+Elapsed Milliseconds Time : 46
+Elapsed Seconds Time : 0.046
+---------------------------------------
+Size of Array : 10000
+Range of Array : 30000
+
+Elapsed Nanooseconds Time : 62513600
+Elapsed Microseconds Time : 62513
+Elapsed Milliseconds Time : 62
+Elapsed Seconds Time : 0.062
+---------------------------------------
+Size of Array : 10000
+Range of Array : 20000
+
+Elapsed Nanooseconds Time : 46872000
+Elapsed Microseconds Time : 46872
+Elapsed Milliseconds Time : 46
+Elapsed Seconds Time : 0.046
+---------------------------------------
+Size of Array : 10000
+Range of Array : 20000
+
+Elapsed Nanooseconds Time : 62482300
+Elapsed Microseconds Time : 62482
+Elapsed Milliseconds Time : 62
+Elapsed Seconds Time : 0.062
+---------------------------------------
+Size of Array : 10000
+Range of Array : 20000
+
+Elapsed Nanooseconds Time : 78126500
+Elapsed Microseconds Time : 78126
+Elapsed Milliseconds Time : 78
+Elapsed Seconds Time : 0.078
+---------------------------------------
+Size of Array : 10000
+Range of Array : 20000
+
+Elapsed Nanooseconds Time : 78153400
+Elapsed Microseconds Time : 78153
+Elapsed Milliseconds Time : 78
+Elapsed Seconds Time : 0.078
+---------------------------------------
+Size of Array : 10000
+Range of Array : 20000
+
+Elapsed Nanooseconds Time : 46889900
+Elapsed Microseconds Time : 46889
+Elapsed Milliseconds Time : 46
+Elapsed Seconds Time : 0.046
+---------------------------------------
+Size of Array : 10000
+Range of Array : 20000
+
+Elapsed Nanooseconds Time : 62498300
+Elapsed Microseconds Time : 62498
+Elapsed Milliseconds Time : 62
+Elapsed Seconds Time : 0.062
+---------------------------------------
+Size of Array : 10000
+Range of Array : 20000
+
+Elapsed Nanooseconds Time : 62503400
+Elapsed Microseconds Time : 62503
+Elapsed Milliseconds Time : 62
+Elapsed Seconds Time : 0.062
+---------------------------------------
+Size of Array : 10000
+Range of Array : 20000
+
+Elapsed Nanooseconds Time : 46875200
+Elapsed Microseconds Time : 46875
+Elapsed Milliseconds Time : 46
+Elapsed Seconds Time : 0.046
+---------------------------------------
+Size of Array : 10000
+Range of Array : 20000
+
+Elapsed Nanooseconds Time : 62495700
+Elapsed Microseconds Time : 62495
+Elapsed Milliseconds Time : 62
+Elapsed Seconds Time : 0.062
+---------------------------------------
+Size of Array : 10000
+Range of Array : 20000
+
+Elapsed Nanooseconds Time : 63998400
+Elapsed Microseconds Time : 63998
+Elapsed Milliseconds Time : 63
+Elapsed Seconds Time : 0.063
+---------------------------------------
+Size of Array : 10000
+Range of Array : 20000
+
+Elapsed Nanooseconds Time : 76003000
+Elapsed Microseconds Time : 76003
+Elapsed Milliseconds Time : 76
+Elapsed Seconds Time : 0.076
